@@ -1164,6 +1164,10 @@ canvas{display: block;  vertical-align: bottom;}
 	line-height: 100px;
 	cursor: pointer;
 }
+.more-contents{
+	font-size: 40px;
+	margin-top: 120px;
+}
 } 
 @media (max-width: 991px) {
 .cbdiv_4db0968a{width:  95%; Width: 100%; }
@@ -1257,7 +1261,9 @@ canvas{display: block;  vertical-align: bottom;}
 .qrcode{
 	display: none;
 }
-
+.more-contents{
+	display: none;
+}
 } 
 @media (max-width: 767px) {
 .cbnavm_16eea362{margin-right: 25px; }
@@ -1487,6 +1493,9 @@ canvas{display: block;  vertical-align: bottom;}
 
 
 .qrcode{
+	display: none;
+}
+.more-contents{
 	display: none;
 }
 } 
